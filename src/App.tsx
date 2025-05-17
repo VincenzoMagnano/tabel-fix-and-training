@@ -1,11 +1,12 @@
-import Table from "./components/Table"
+import TableSection from "./layout/TableSection"
+
 
 
 function  App() {
 
   return (
     <>
-      <Table/>
+     <TableSection />
     </>
   )
 }
